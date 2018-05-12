@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5862
     wikipedia: http://en.wikipedia.org/wiki/J._D._Beresford
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27188#The-Wonder
 gutenberg_issued: '2008-11-07'
 gutenberg_type: Text
 identifiers:
